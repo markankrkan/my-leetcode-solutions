@@ -55,5 +55,3 @@ Made with ❤️
 
 - [Go](./go/.go.md)
 - [TypeScript](./typescript/.typescript.md)
-
----
