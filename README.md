@@ -1,4 +1,4 @@
-<img src="./.png" alt="Logo" title="markankrkan" width="430">
+<img src="./img/logo1.png" alt="Logo" title="markankrkan" width="430">
 
 <br>
 
@@ -35,6 +35,8 @@ I am still new to this thing called programming,
 
 so my solutions may not be fully time and memory efficient,
 
+also I am learning how to use **Git**, **GitHub** and **LeetCode**,
+
 but I wll try to do my best.
 
 <br>
@@ -51,7 +53,7 @@ Made with ❤️
 
 # SOLUTIONS
 
-- [Go](./go/go.md)
-- [TypeScript](./typescript/typescript.md)
+- [Go](./go/.go.md)
+- [TypeScript](./typescript/.typescript.md)
 
 ---
