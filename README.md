@@ -1,4 +1,4 @@
-<img src="./.png" alt="Logo" title="markankrkan" width="430">
+<img src="./logo.png" alt="Logo" title="markankrkan" width="430">
 
 <br>
 
@@ -51,7 +51,7 @@ Made with ❤️
 
 # SOLUTIONS
 
-- [Go](./go.md)
-- [TypeScript](./typescript.md)
+- [Go](./go/go.md)
+- [TypeScript](./typescript/typescript.md)
 
 ---
