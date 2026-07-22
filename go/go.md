@@ -1,8 +1,8 @@
-<img src="../logo.png" alt="Logo" title="markankrkan" width="430">
+<img src="../.png" alt="Logo" title="markankrkan" width="430">
 
 <br>
 
-![Go](https://img.shields.io/badge/language-Go-ffffff)
+![Go](https://img.shields.io/badge/language-Go-00aed9)
 
 ---
 

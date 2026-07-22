@@ -1,8 +1,8 @@
-<img src="../logo.png" alt="Logo" title="markankrkan" width="430">
+<img src="../.png" alt="Logo" title="markankrkan" width="430">
 
 <br>
 
-![TypeScript](https://img.shields.io/badge/language-TypeScript-ffffff)
+![TypeScript](https://img.shields.io/badge/language-TypeScript-3076c4)
 
 ---
 
