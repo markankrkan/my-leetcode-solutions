@@ -13,7 +13,7 @@
 
 
 
-# 📌 Project Status
+## 📌 Project Status
 
 I'm currently focusing on another project, so updates to this repository are less frequent.
 
@@ -29,7 +29,7 @@ Thanks for stopping by!
 
 
 
-# 📖 INTRODUCTION
+## 📖 INTRODUCTION
 
 What's up,
 
@@ -67,7 +67,7 @@ Made with ❤️
 
 
 
-# 🧩 SOLUTIONS
+## 🧩 SOLUTIONS
 
 - [Go](./go/.go.md)
 - [TypeScript](./typescript/.typescript.md)
